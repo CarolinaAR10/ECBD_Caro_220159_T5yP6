@@ -56,19 +56,3 @@ Ejecución de la práctica completa en Jupyter Notebook ✅
 Respaldo final del proyecto y exportaciones ✅
 
 ---
-
-## Evidencias
-
-A continuación se presentan imágenes como evidencia de la práctica realizada:
-
-### Capturas del Test
-<img src="Practica03/imgevidencias/image1.png" alt="Logo 1" width="190"/>
-<br><br>
-<img src="Practica03/imgevidencias/image2.png" alt="Logo 1" width="150"/>
-
-### Capturas del código
-<img src="Practica03/imgevidencias/image3.png" alt="Logo 1" width="250" height="150"/>
-<br> <br>
-<img src="Practica03/imgevidencias/image4.png" alt="Logo 1" width="250" height="150"/>
-
-<!-- Puedes agregar más secciones o imágenes según lo necesites -->
