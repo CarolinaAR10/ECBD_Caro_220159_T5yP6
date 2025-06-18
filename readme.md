@@ -3,7 +3,7 @@
   <img src="Practica03/img/logo_ti.png" alt="Logo 2" width="150"/>
 </p>
 
-# Práctica03: FUNCIONALIDADES POR COMANDOS DE VOZ
+# Tarea 05 y Practica 06
 
 ## Elaborado por Carolina Arias Reyes
 Grupo: 9A IDGS
