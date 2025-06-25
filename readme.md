@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="Practica03/img/image.png" alt="Logo 1" width="150"/>
-  <img src="Practica03/img/logo_ti.png" alt="Logo 2" width="150"/>
-</p>
-
 # Tarea 05 y Practica 06
 
 ## Elaborado por Carolina Arias Reyes
